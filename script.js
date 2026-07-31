@@ -1063,15 +1063,7 @@ function closePopup(){
 function startseite() {
     document.getElementById("startScreen").style.display="flex";
     document.getElementById("anfangText").style.display= "flex";
-    document.getElementById("vorhangLinks").classList.add("vorhangLinksschließen");
-    document.getElementById("vorhangRechts").classList.add("vorhangRechtsschließen");
-
-    setTimeout(function(){
-    
-    document.getElementById("vorhangLinks").classList.remove("vorhangLinksschließen");
-    document.getElementById("vorhangRechts").classList.remove("vorhangRechtsschließen");
-    
-    },2000);
+   
 }
 
 function closeView() {
