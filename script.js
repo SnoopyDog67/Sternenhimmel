@@ -728,7 +728,7 @@ let sternInfos = {
 
     tag2: {
         titel:"Und da waren es schon zwei ",
-        text:"Und hier sind auch gleich zwei intresannte Funfacts um jemand heute zu beeindrucken",
+        text:"Und hier sind auch gleich zwei intressannte Funfacts um jemand heute zu beeindrucken",
         aktion: funfact1,
         datum: 2
     },
@@ -799,7 +799,7 @@ let sternInfos = {
 
     tag12: {
         titel:"Keine Ahnung",
-        text:"Joa hier war ich out of ideas aber ich weis du magst Wasser (ig?) deswegen hier ist Wasser.",
+        text:"Joa hier war ich out of ideas und time aber ich weis du magst Wasser (ig?) deswegen hier ist Wasser.",
         aktion: meer,
         datum: 12
     },
@@ -819,8 +819,8 @@ let sternInfos = {
     },
 
     tag15: {
-        titel:"Gimme, Gimme, Gimme...",
-        text:"...mehr unnötiges Wissen",
+        titel:"Gib mir mehr",
+        text:"Man kann NIE genug unnötiges Wissen haben.",
         aktion: funfact4,
         datum: 15
     },
@@ -848,7 +848,7 @@ let sternInfos = {
 
     tag19: {
         titel:"Zitronen",
-        text:"Davon kann man nie genug besitzen(wenigstens deiner Meinug nach). Warum dann nicht gleich direkt Quelle?",
+        text:"Davon kann man nie genug besitzen(wenigstens deiner Meinug nach). Warum dann nicht gleich direkt die Quelle? (für die Marmelade, trust).",
         aktion: zitronen,
         datum: 19
     },
@@ -961,7 +961,7 @@ function openLetter() {
 
     document.getElementById("popup-textStart").innerText =
 `
-so ich muss jetzt hier einen Text schrieben, naja deutsch ist nicht so meine Stärke aber ich veruschs.
+so ich muss jetzt hier einen Text schreiben, naja deutsch ist nicht so meine Stärke aber ich veruschs.
 
 Das wird lustig wenn du das siehts, weil wenn du's tust dann nur weil ich es in der kurzen Zeit geschafft habe es tatsächlich zu perfektionieren yk.
 (ich habe gerade mal 4 Tage, wobei viele halt schon verplant sind lol).
@@ -969,8 +969,8 @@ Es ist die Arbeit hoffentlich Wert.
 Ich glaube du hast egal welche Erwartungen meine Ego unterschäzt (obwohl ich dir immer updates gegebn hab) und wirst so überrascht sein wie sehr übertrieben ich hab.
 
 Also was ist das hier:
-Da ich jetzt erstmal 3 Wochen weg bin und heute(an dem Tag an dem du's lesen wirst) der erste August ist (google wenn du nicht weist was da ist) dachte ich mir bastel ich dir was kleines.
-Desweiteren wollte ich eh Websiten programmieren leren, deswegen war es ein lustiges einsteiger Projekt.
+Da ich jetzt erstmal 3 Wochen weg bin und heute(an dem Tag an dem du's lesen wirst) der erste August ist dachte ich mir bastel ich dir was kleines (so klein war's dann doch nd, Schere).
+Desweiteren wollte ich eh Websiten programmieren leren, deswegen war es ein lustiges Einsteiger Projekt.
 
 So ich hab auf Insta Posts gesehen wo Leute ihren Partnern Websiten als Geschenke programmiert haben. Tja und mein Ego dachte sich: 'Ich kann das auch!'
 Naja bloß hab ich die Idee nicht nur kopiert sondern verändert und mich damit soo übernommen du weist nicht.
@@ -978,7 +978,8 @@ Naja bloß hab ich die Idee nicht nur kopiert sondern verändert und mich damit 
 So das ganze fungiert als Kalender bis zu der Woche wo ich wieder da bin. Jeden Tag schaltet sich ein neuer Stern frei den du dir dann anschuen kannst.
 Wehe du checkst das nd jeden Tag - ich will ne Reaktion haben ja, war viel Arbeit hier.
 
-Oke ig das wars. Das Projekt hat litterly mein gesamtes Leben überneommen und du hast meine Crashouts ja immer live mitbekommen. Trozdem, hab ichs gerne gemacht, viel Spass mit diesen 40h arbeit und über 4000 Zeilen Code.
+Oke ig das wars. Das Projekt hat litterly mein gesamtes Leben übernommen und du hast meine Crashouts ja immer live mitbekommen. Trozdem, hab ich's gerne gemacht, viel Spass mit diesen 40h arbeit und über 4500 Zeilen Code.
+Eigentlich sollte ich seit ner Stunde auf ner Party sein aber stattdessen mach ich jetzt meine finishing touches an diesem Projekt lol. Was man nicht alles tut, huh.
 
 Joa vergiss mich nd, hab dich lieb (und appreciate den Scheiss)
 
